@@ -14,7 +14,7 @@
 
 理解基本的 iOS 开发套路，包括基本理念，Swift 语法、开发框架、相关工具
 
-开发一个简单的类微博 iOS App，包含 UI 布局、动态约束、网络请求、本地缓存、性能监控、Pods 管理等
+开发一个简单的类微博 iOS App，包含 UI 布局、约束布局、网络请求、本地缓存、性能监控、Pods 管理等
 
 迁移与融合，与 React Native 部分功能相融合，解决性能问题
 
@@ -26,4 +26,4 @@
 
 [Swift 4从零到精通iOS开发](https://www.amazon.cn/dp/B07SYY4K9B)
 
-
+[iOS 初学者教程](https://www.appcoda.com/learnswift)
