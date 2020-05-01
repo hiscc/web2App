@@ -29,9 +29,9 @@ img{
 }
 </style>
 
-![登录页面](./imgs/Login.png){:height="50%"}
+![登录页面](./imgs/Login.png){:width="400px"}
 
-![首页](./imgs/Home.png){:height="50%"}
+![首页](./imgs/Home.png){:width="400px"}
 
 
 
