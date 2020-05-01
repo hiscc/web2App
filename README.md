@@ -1,6 +1,5 @@
-# iOS
 
-本项目是我个人的 iOS、Android 学习历程
+#### 本项目是我个人的 iOS、Android 学习历程
 
 
 
@@ -30,9 +29,9 @@ img{
 }
 </style>
 
-![登录页面](./imgs/Login.png)
+![登录页面](./imgs/Login.png){:height="50%"}
 
-![首页](./imgs/Home.png)
+![首页](./imgs/Home.png){:height="50%"}
 
 
 
