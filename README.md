@@ -20,18 +20,10 @@
 
 ### 最终 demo
 
-<style>
-img{
-    width: 470px;
-    margin: 10px;
-    display: inline-block;
-    /* float: left; */
-}
-</style>
 
-![登录页面](./imgs/Login.png){:width="400px"}
+![登录页面](./imgs/Login.png|width=360px)
 
-![首页](./imgs/Home.png){:width="400px"}
+![首页](./imgs/Home.png|width=360px)
 
 
 
