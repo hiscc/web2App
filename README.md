@@ -21,9 +21,9 @@
 ### 最终 demo
 
 
-![登录页面](./imgs/Login.png | width=360)
+![登录页面](./imgs/Login.png)
 
-![首页](./imgs/Home.png | width=360)
+![首页](./imgs/Home.png)
 
 
 
