@@ -2,7 +2,7 @@
 #### 本项目是我个人的 iOS、Android 学习历程
 
 
-本文档目前不再更新，对于swift和swiftUI的学习推荐这个 [swift](https://www.zhihu.com/column/c_1175164920580198400)
+本文档目前不再更新，对于swift和swiftUI的学习推荐这个 [Swift花园](https://www.zhihu.com/column/c_1175164920580198400)
 
 
 
